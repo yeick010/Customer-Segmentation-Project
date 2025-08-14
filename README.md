@@ -32,4 +32,4 @@ L'analisi ha identificato **4 segmenti di clienti** ben distinti, ognuno con spe
 * **Matplotlib & Seaborn:** Per la visualizzazione dei dati.
 * **Scikit-learn:** Per l'implementazione del K-Means e il preprocessing.
 ---
-➡️ **[Esplora i dettagli del proggeto](./[Segmentazione dei Clienti di una Carta di Credito.ipynb](https://github.com/yeick010/Customer-Segmentation-Project/blob/main/Segmentazione%20dei%20Clienti%20di%20una%20Carta%20di%20Credito.ipynb))**
+➡️ **[Esplora i dettagli del proggeto](https://github.com/yeick010/Customer-Segmentation-Project/blob/main/Segmentazione%20dei%20Clienti%20di%20una%20Carta%20di%20Credito.ipynb))**
