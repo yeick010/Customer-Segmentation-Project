@@ -31,3 +31,5 @@ L'analisi ha identificato **4 segmenti di clienti** ben distinti, ognuno con spe
 * **Pandas & NumPy:** Per la manipolazione e l'analisi dei dati.
 * **Matplotlib & Seaborn:** Per la visualizzazione dei dati.
 * **Scikit-learn:** Per l'implementazione del K-Means e il preprocessing.
+---
+➡️ **[Esplora i dettagli del proggeto](./PRIA_Incident_Response_Ecosystem/README.md)**
